@@ -1,3 +1,5 @@
-let a='hellow world'
+let a='hellow'
 
-console.log(a);
+let b="git hub desktop"
+
+console.log(a+" "+ b);
